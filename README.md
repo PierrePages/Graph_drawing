@@ -11,7 +11,7 @@ To run the project, you need to :
     -  matplotlib with the command : pip install matplotlib
     -  numpy with the command : pip install numpy
 
-#### Data strucuture
+#### Data structure
 The repo is made of a datasets folder which contains the input graph (.txt)
 The file main.ipynb which is the file contening the code 
 The readme
