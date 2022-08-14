@@ -6,6 +6,7 @@ To run the project, you need to :
 - Have python installed
 - Have Jupyter Notebook installed or equivalent
 - Have an installer such as pip
+- Clone this repo
 - Install the following libraries :
     -  matplotlib with the command : pip install matplotlib
     -  numpy with the command : pip install numpy
